@@ -3,7 +3,7 @@
 Semua perubahan penting pada repositori Frontend ini akan didokumentasikan dalam file ini.
 Proyek ini mematuhi standar [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2026-02-15
+## [1.0.0] - 2026-02-15 
 
 ### Added
 - **Core Navigation**: Implementasi sistem routing menggunakan `react-router` dan navigasi global melalui komponen `Navbar`.
